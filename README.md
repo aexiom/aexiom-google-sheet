@@ -13,3 +13,6 @@
 ## Download
 v.1.0.0 [aexiom-google-sheet-1.0.0](https://docs.google.com/spreadsheets/d/1Jbf_dIJ93TAX9_W7jFT84konFwR-2ESxpRsZTnBwV_Y)
 1. Implement the aexiom(symbol, conceptId, startDate, endDate)
+
+## Contact
+Please join us on [Slack](https://join.slack.com/t/aexiom/shared_invite/enQtNzE3NTEyODMxNjIyLTk1YmI2ZWQ2NjA5MzEzMTk3MmU1OWM5NWE3NDMwN2ZmNTczMmU3MzhhZTY0MTM4N2I3ZTU2ZDZkNzEyYzFjOWM) if you have any questions. 
